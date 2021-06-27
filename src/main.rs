@@ -1,4 +1,5 @@
 mod rendering;
+mod texture;
 
 use futures::executor::block_on;
 use winit::{
